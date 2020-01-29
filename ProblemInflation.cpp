@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
     cost = cost * (1+rate);
   }
 
-  cout << "The expected cost of the item " << yearsFromNow << " is: $" << cost << endl;
+  cout << "The expected cost of the item " << yearsFromNow <<" years from now is: $" << cost << endl;
 
 
   return 0;
